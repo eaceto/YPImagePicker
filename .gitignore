@@ -1,3 +1,7 @@
+.swiftpm
+DerivedData/
+Package.resolved
+
 # OS X
 .DS_Store
 
